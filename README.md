@@ -57,6 +57,7 @@
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=anzmax&repo=weather-app&border_color=7F3FBF&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=7F3FBF)](https://github.com/anzmax/weather-app)
 [![Habit Tracker](https://github-readme-stats.vercel.app/api/pin/?username=anzmax&repo=habit-tracker&border_color=7F3FBF&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=7F3FBF)](https://github.com/anzmax/habit-tracker)
 
+
 <p align="left">
   <a href="https://github.com/anzmax?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
