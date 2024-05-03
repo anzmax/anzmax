@@ -30,7 +30,7 @@
  # About me
 
  <p>
- <img align="right" width="260" src="https://media.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif" alt="Coding gif" />
+ <img align="right" width="250" src="https://media.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Passionate about iOS development and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
