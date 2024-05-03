@@ -34,8 +34,8 @@
  <img align="right" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRtOXhtZGQ4ZTV5emsybTM2YTFuZHA4dmJ5djZ6ajYzaml3YjVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2fQ7kcdF2lyELBHXZ/giphy.gif" />
   
  ✌️ &emsp; Passionate about iOS development and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: anzhelika.maksimovic@gmail.com<br/><br/>
+ ❤ &emsp; Love to writing code and learning new features<br/><br/>
+ ✉️ &emsp; Reach me anytime: anzhelika.maksimovic@gmail.com<br/><br/>
 
 </p>
 
