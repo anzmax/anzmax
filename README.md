@@ -44,10 +44,10 @@
 
 ## Skills and Tools
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&labelColor=F05138&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&labelColor=31A8FF&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=F24E1E&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br/>
