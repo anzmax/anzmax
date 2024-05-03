@@ -44,24 +44,22 @@
 ## Tools I Use
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Core Data](https://img.shields.io/badge/CoreData-FF6C37?style=flat&logo=apple&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
-
-
 
 
 
