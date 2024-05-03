@@ -52,47 +52,6 @@
 
 <br/>
 
-## Top Open Source 
-[![Pizza Delivery App](https://github-readme-stats.vercel.app/api/pin/?username=anzmax&repo=pizza-delivery-app&border_color=7F3FBF&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=7F3FBF)](https://github.com/anzmax/pizza-delivery-app)
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=anzmax&repo=weather-app&border_color=7F3FBF&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=7F3FBF)](https://github.com/anzmax/weather-app)
-[![Habit Tracker](https://github-readme-stats.vercel.app/api/pin/?username=anzmax&repo=habit-tracker&border_color=7F3FBF&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=7F3FBF)](https://github.com/anzmax/habit-tracker)
-
-
-<p align="left">
-  <a href="https://github.com/anzmax?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://github.com/anzmax">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anzmax&theme=light&border=4B0082" alt="Anzhelika's GitHub Streak" />
-  </a>
-</p>
-
-<!-- GitHub Profile Summary Card -->
-<p align="center">
-  <a href="https://github.com/anzmax">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anzmax&theme=vue" alt="Anzhelika's GitHub Contribution" />
-  </a>
-</p>
-
-<!-- GitHub Stats and Top Languages -->
-<p align="center">
-  <a href="https://github.com/anzmax">
-    <img src="https://github-readme-stats.vercel.app/api?username=anzmax&show_icons=true&count_private=true&theme=default&border_color=4B0082&bg_color=FFFFFF&title_color=4B0082&icon_color=4B0082" alt="Anzhelika's GitHub Stats" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzmax&langs_count=8&layout=compact&theme=default&border_color=4B0082&bg_color=FFFFFF&title_color=4B0082&icon_color=4B0082" alt="Anzhelika's Top Languages" width="43%" />
-  </a>
-</p>
-
-<!-- GitHub Activity Graph -->
-![Anzhelika's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anzmax&custom_title=Anzhelika's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=F3E8FF&title_color=7F3FBF&area=true)
-
-
-
 
 
 
