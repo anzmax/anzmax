@@ -1,11 +1,11 @@
 <!-- Intro  -->
 <h3 align="center">
-    <samp>&gt; Hey There!, I am Anzhelika</samp>
+    <samp>&gt; Hello World! I am Anzhelika</samp>
 </h3>
 
 <p align="center"> 
   <samp>
-     I am a beginner iOS developer from <b>London</b> 
+     And I am a beginner iOS developer from <b>London</b> 
     <br>
     <br>
   </samp>
