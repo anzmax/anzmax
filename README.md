@@ -13,9 +13,6 @@
  <a href="https://www.linkedin.com/in/anzhelika-maksimovic" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
  </a>
- <a href="https://instagram.com/malini.ka" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=flat&logo=instagram&logoColor=white" alt="Instagram Profile" />
- </a>
  <a href="https://medium.com/@anzmax" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium Profile" />
  </a>
