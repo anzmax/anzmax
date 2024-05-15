@@ -45,6 +45,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Core Data](https://img.shields.io/badge/CoreData-FF6C37?style=flat&logo=apple&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FF6C37?style=flat&logo=swiftui&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-000000?style=flat&logo=apple&logoColor=white)
 ![WebKit](https://img.shields.io/badge/WebKit-7D7D7D?style=flat&logo=apple&logoColor=white)
